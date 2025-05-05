@@ -1,0 +1,2 @@
+Trip Name,Flight Number,Departure Time,Status,Gate,Baggage,Check-In Link,Checked In
+Test Trip 1,ABC123,2025-04-10T15:00:00Z,On Time,A1,5,https://example.com/checkin,no
